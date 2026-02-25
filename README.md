@@ -8,7 +8,6 @@ Features a dark editorial aesthetic with smooth animations, full CRUD operations
 ## 🗂 Project Structure
 
 ```
-blog-app/
 ├── backend/               # Express.js + MongoDB API
 │   ├── models/
 │   │   └── Blog.js        # Mongoose Blog schema
@@ -47,14 +46,6 @@ blog-app/
 ### Prerequisites
 - Node.js v16+
 - MongoDB (local or [MongoDB Atlas](https://www.mongodb.com/atlas))
-
----
-
-### 1. Clone / Extract the project
-
-```bash
-cd blog-app
-```
 
 ---
 
